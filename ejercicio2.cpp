@@ -49,5 +49,6 @@ int main(){
 			}
 		}
 	}while(opcion!=3);
+	cout<<endl;
 	return 0;
 }
